@@ -1,4 +1,4 @@
-# pilha - inverter-letras
+# pilha - inverter letras
 pilha - inverter letras de uma palavra (sem inverter as palavras)
 
 --------------------------------------------------------------------------
